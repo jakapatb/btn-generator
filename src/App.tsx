@@ -11,7 +11,6 @@ function App() {
     </div>
   );
 }
-
 const mapInfo = {
   imgUrl: logo,
   buttons: [
